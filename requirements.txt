@@ -1,9 +1,9 @@
 beautifulsoup4==4.9.3
-Flask==2.2.5
+Flask
 googlesearch_python==1.0.1
 numpy==1.22.0
 pandas==1.3.4
 python_dateutil==2.8.2
-requests==2.31.0
+requests
 scikit_learn==1.0.1
 whois==0.9.13
